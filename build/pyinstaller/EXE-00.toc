@@ -1,0 +1,154 @@
+('C:\\Users\\Vignesh Vijay K\\AI attendance\\dist\\AI-Attendance.exe',
+ False,
+ False,
+ False,
+ 'C:\\Users\\Vignesh Vijay K\\AI '
+ 'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\Vignesh Vijay K\\AI '
+ 'attendance\\build\\pyinstaller\\AI-Attendance.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\build\\pyinstaller\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('app_launcher',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\app_launcher.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('README.md', 'C:\\Users\\Vignesh Vijay K\\AI attendance\\README.md', 'DATA'),
+  ('data\\attendance.db',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\data\\attendance.db',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_172934_607394.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_172934_607394.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173006_786161.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173006_786161.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173007_025285.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173007_025285.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173023_640978.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173023_640978.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173035_934266.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173035_934266.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_174230_582735.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_174230_582735.jpg',
+   'DATA'),
+  ('requirements.txt',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\requirements.txt',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1756218080,
+ [('runw.exe',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\Vignesh Vijay '
+ 'K\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll')

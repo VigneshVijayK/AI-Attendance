@@ -1,0 +1,129 @@
+('C:\\Users\\Vignesh Vijay K\\AI '
+ 'attendance\\build\\pyinstaller\\AI-Attendance.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\build\\pyinstaller\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('app_launcher',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\app_launcher.py',
+   'PYSOURCE'),
+  ('python311.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Vignesh Vijay '
+   'K\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('README.md', 'C:\\Users\\Vignesh Vijay K\\AI attendance\\README.md', 'DATA'),
+  ('data\\attendance.db',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\data\\attendance.db',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_172934_607394.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_172934_607394.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173006_786161.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173006_786161.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173007_025285.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173007_025285.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173023_640978.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173023_640978.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_173035_934266.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_173035_934266.jpg',
+   'DATA'),
+  ('data\\unknown_snapshots\\unknown_20250826_174230_582735.jpg',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\data\\unknown_snapshots\\unknown_20250826_174230_582735.jpg',
+   'DATA'),
+  ('requirements.txt',
+   'C:\\Users\\Vignesh Vijay K\\AI attendance\\requirements.txt',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Vignesh Vijay K\\AI '
+   'attendance\\build\\pyinstaller\\base_library.zip',
+   'DATA')],
+ 'python311.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
